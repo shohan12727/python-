@@ -1,4 +1,4 @@
-import math
+import math 
 
 weight = float(input("Enter your weight :"))
 
