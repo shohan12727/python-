@@ -6,3 +6,8 @@
   - Between key and value you must use 👉 :  this sign to preview the dic 
 
 
+# Set 
+- Sets are immutable 
+- sets are unindexed
+- There is no way to change items in sets
+- Set can't contain duplicate values (it's collection of non repetitive elemensts)
